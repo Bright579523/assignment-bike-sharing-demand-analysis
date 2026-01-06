@@ -1,9 +1,9 @@
 # assignment-bike-sharing-demand-analysis
 # 🚴 Bike Sharing Demand Analysis Dashboard
 
-### 🔗 Live Dashboard
-[[![Streamlit App]([https://bike-sharing-demand-analysis-bright.streamlit.app/])
-> **Click the badge above to view the interactive dashboard.**
+### 🔗 Link Dashboard
+https://bike-sharing-demand-analysis-bright.streamlit.app/
+
 
 ### 📋 Project Overview
 This interactive dashboard was developed to analyze and visualize the factors influencing bike-sharing demand. It summarizes the key findings from a comprehensive data exploration, focusing on temporal patterns and environmental factors.
